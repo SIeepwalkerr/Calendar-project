@@ -1,0 +1,16 @@
+C:\Users\elise\source\repos\Calendar project\Calendar project\bin\Debug\net8.0-windows\Calendar project.exe
+C:\Users\elise\source\repos\Calendar project\Calendar project\bin\Debug\net8.0-windows\Calendar project.deps.json
+C:\Users\elise\source\repos\Calendar project\Calendar project\bin\Debug\net8.0-windows\Calendar project.runtimeconfig.json
+C:\Users\elise\source\repos\Calendar project\Calendar project\bin\Debug\net8.0-windows\Calendar project.dll
+C:\Users\elise\source\repos\Calendar project\Calendar project\bin\Debug\net8.0-windows\Calendar project.pdb
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar_project.Form1.resources
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.csproj.GenerateResource.cache
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.AssemblyInfoInputs.cache
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.AssemblyInfo.cs
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.csproj.CoreCompileInputs.cache
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.dll
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\refint\Calendar project.dll
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.pdb
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\Calendar project.genruntimeconfig.cache
+C:\Users\elise\source\repos\Calendar project\Calendar project\obj\Debug\net8.0-windows\ref\Calendar project.dll
