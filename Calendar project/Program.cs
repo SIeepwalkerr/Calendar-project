@@ -48,7 +48,7 @@ public class Program : Form
         };
         monthCalendar1.DateSelected += MonthCalendar1_DateSelected;
         monthCalendar1.DateChanged += MonthCalendar1_DateChanged;
-
+        // add comments
         //  нопка сброса выбора дат
         resetButton = new Button
         {
